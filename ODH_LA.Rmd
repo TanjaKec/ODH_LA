@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Šta su otvoreni podaci i čemu služe 
+# Šta su otvoreni podaci i čemu služe? 
 
 Otvoreni podaci deo su širokog globalnog pokreta koji ne samo da unapređuje nauku i naučnu komunikaciju, već transformiše moderno društvo i način donošenja odluka. Podaci, LifeBlood našeg novog globalnog životnog sistema, ključni su resurs za rješavanje velikih ne samo lokalnih, već i globalnih izazova današnjice.
 
